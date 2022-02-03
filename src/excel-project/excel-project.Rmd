@@ -268,12 +268,18 @@ Use information from the PivotTable to answer the following questions (Hint: Fil
 \item What is the sales figure of the least profitable Home Office customer?
 \end{enumerate}
 
+# Analysis
 
+At the minimum, each PivotTable should...
 
-
-
-
-
+\begin{enumerate}
+\item Contain all required information
+\item Be well structured in order to easily locate information and provide accurate and complete answer(s) to the question.
+\item Use clear and meaningful headings and labels
+\item Use an appropriate number format
+\item Be placed on its own worksheet with an appropriate worksheet (i.e., tab) name.
+\item The PivotChart should be on the same worksheet as the PivotTable. Make sure to use an appropriate chart type with complete and meaningful chart elements (e.g., chart title, data labels, legend keys, etc.) and clear and appropriate titles and labels without being too cluttered.
+\end{enumerate}
 
 
 
