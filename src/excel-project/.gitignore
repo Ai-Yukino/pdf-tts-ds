@@ -1,0 +1,4 @@
+# Extra R and R studio files
+*.pdf
+*.log
+*.Rhistory
